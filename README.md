@@ -8,16 +8,6 @@ The objective of this project is **not** to provide an in-depth theoretical expl
 
 ## Project structure
 
-deutsch-jozsa/
-├── notebooks/
-│ └── deutsch_jozsa.ipynb
-├── figures/
-│ └── (circuit diagrams and result figures)
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
 - `notebooks/`  
   Contains the main Jupyter notebook with the full implementation and simulations.
 
